@@ -1,6 +1,6 @@
 <div align="center">
     
- ![header](https://capsule-render.vercel.app/api?height=400&text=HYUNJIN%20JUNG&desc=aspiring%20developer%20r)
+ ![header](https://capsule-render.vercel.app/api?height=400&text=HYUNJIN%20JUNG&desc=aspiring%20developer%20)
   
   </br>
   MY...</br>
