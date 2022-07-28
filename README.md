@@ -2,10 +2,6 @@
     
  ![header](https://capsule-render.vercel.app/api?height=400&text=HYUNJIN%20JUNG&desc=aspiring%20developer%20)
   
-  </br>
-  <a href="https://www.instagram.com/bomari_lover/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
-  
   </br></br>
   
  <h2> ✨first grade </h2>
